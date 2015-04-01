@@ -1,0 +1,237 @@
+<keymap version="1" name="ToRo" parent="Eclipse">
+  <action id="ActivateAndroidToolWindow">
+    <keyboard-shortcut first-keystroke="alt BACK_QUOTE" />
+  </action>
+  <action id="ActivateBuildVariantsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt P" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ChangeSignature" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift F12" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift F11" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="control alt W" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="CommanderSwapPanels" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="F12" />
+  </action>
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="control Y" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt L" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt K" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="END" />
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EvaluateExpression" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="control MULTIPLY" />
+    <keyboard-shortcut first-keystroke="shift control EQUALS" />
+  </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift F1" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="control alt M" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="control alt G" />
+  </action>
+  <action id="GoogleCloudTools.DeployToAppEngine">
+    <keyboard-shortcut first-keystroke="F10" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="control N" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="control B" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control N" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="control alt B" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift F2" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="control U" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift control T" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift control B" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="GuiDesigner.Duplicate" />
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift alt O" />
+  </action>
+  <action id="IncrementalSearch" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="control J" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="control alt V" />
+  </action>
+  <action id="InvertBoolean">
+    <keyboard-shortcut first-keystroke="control alt I" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift control BACK_SPACE" />
+  </action>
+  <action id="Macro.GoToEndAndPeriod">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="Mvc.RunTarget" />
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="Print" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
+  <action id="RecentChanges">
+    <keyboard-shortcut first-keystroke="shift alt C" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control alt X" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="F11" />
+  </action>
+  <action id="Scala.RunWorksheet">
+    <keyboard-shortcut first-keystroke="control alt W" />
+    <keyboard-shortcut first-keystroke="F10" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift control alt J" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt J" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift alt F11" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift control M" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift alt S" />
+    <keyboard-shortcut first-keystroke="control F10" />
+    <keyboard-shortcut first-keystroke="shift alt T" />
+  </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift control alt G" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift control SPACE" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="control F8" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt J" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt V" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+</keymap>
